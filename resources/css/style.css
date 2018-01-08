@@ -1,0 +1,35 @@
+* {
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+  background-color: Black;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#download {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+#right {
+  text-align: right;
+  color: Gray;
+}
+
+video {
+  margin: 0 auto;
+}
